@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    .navlist {
+
+
+
+        list-style: none;
+
+        .list_item {
+            .list_item_a {
+
+                color: #000;
+                text-decoration: none;
+            }
+
+
+        }
+
+
+    }
+
+    .cart {
+        .header_btn {
+            width: 174px;
+            height: 54px;
+            background-color: --common-color;
+            border: none;
+        }
+    }
+}
